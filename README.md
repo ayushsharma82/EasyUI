@@ -1,5 +1,9 @@
 # EasyUI
-![EasyUI Dashboard](https://github.com/ayushsharma82/EasyUI/blob/master/docs/img1.PNG)
+
+## [DEPRICIATED] This library is depriciated and is no longer maintained. Please See <a href="https://github.com/ayushsharma82/ESP-DASH">ESP-DASH</a> as a alternative with enhanced performance and more capabilities.
+
+<br>
+
 Did you Ever Got into the Trouble of Making a good Looking UI for ESP8266 without having the skills to Build Perfect Webpages?
 EasyUI is an User Interface Library for ESP8266 to Solve this Problem. This Library Uses Light-weight Websockets Protocol for Communicating with Webpage to Control, Make and Update Elements.
 
