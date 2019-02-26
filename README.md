@@ -1,6 +1,6 @@
 # EasyUI
 
-## [DEPRICIATED] This library is depriciated and is no longer maintained. Please See <a href="https://github.com/ayushsharma82/ESP-DASH">ESP-DASH</a> as a alternative with enhanced performance and more capabilities.
+## [DEPRECIATED] This library is depriciated and is no longer maintained. Please See <a href="https://github.com/ayushsharma82/ESP-DASH">ESP-DASH</a> as a alternative with enhanced performance and more capabilities.
 
 <br>
 
